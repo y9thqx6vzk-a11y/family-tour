@@ -14,14 +14,14 @@ const days = [
         title: "קפה ולהתעורר",
         description: 'נפגשים ב"מקום יפה לקפה". בבקשה תבואו אחרי ארוחת בוקר כי אין כיף בלהיות רעבים כשנפגשים!',
         icon: <Coffee className="w-5 h-5" />,
-        mapLink: "https://maps.app.goo.gl/Yq7YmRzj4eP2K2Sj7" // generic placeholder, let's just make it visually clickable
+        mapLink: "https://waze.com/ul?q=מקום יפה לקפה&navigate=yes"
       },
       {
         time: "13:00",
         title: "פארק הירדן",
         description: "אפשר ללכת מסלול בפארק או לעשות מסלול אופניים של כ-8 קילומטרים. ניפגש כולנו לאחר מכן.",
         icon: <Tent className="w-5 h-5" />,
-         mapLink: "https://maps.app.goo.gl/1S6b4NqYJ6L1Z4EaA"
+         mapLink: "https://waze.com/ul?q=פארק הירדן&navigate=yes"
       },
       {
         time: "15:00",
@@ -34,7 +34,7 @@ const days = [
         title: "הגעה לאינדיאנה ג'ונס",
         description: "מתבססים במתחם אינדיאנה ג'ונס בשעל. מקום מושלם למנוחה ולחוויות.",
         icon: <MapPin className="w-5 h-5" />,
-        mapLink: "https://maps.app.goo.gl/15K21x5A8E19p3u27"
+        mapLink: "https://waze.com/ul?q=אינדיאנה ג'ונס שעל&navigate=yes"
       },
       {
         time: "18:00",
@@ -56,7 +56,7 @@ const days = [
         title: "תפילת שחרית",
         description: "למעוניינים, יש מניין בקצרין.",
         icon: <HandHeart className="w-5 h-5" />,
-        mapLink: "https://maps.app.goo.gl/L5G9rTq2WzWxgmSj7"
+        mapLink: "https://waze.com/ul?q=קצרין&navigate=yes"
       },
       {
         time: "08:00",

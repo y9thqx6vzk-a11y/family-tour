@@ -6,7 +6,7 @@ export default function TripMap() {
     {
       id: "coffee",
       name: 'מקום יפה לקפה',
-      desc: "נקודת מפגש ראשונה (12:00)",
+      desc: "נקודת מפגש ראשונה (10:30)",
       wazeUrl: "https://waze.com/ul?q=מקום יפה לקפה&navigate=yes"
     },
     {

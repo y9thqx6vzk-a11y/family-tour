@@ -10,7 +10,7 @@ const days = [
     iconColor: "text-olive",
     events: [
       {
-        time: "12:00",
+        time: "10:30",
         title: "קפה ולהתעורר",
         description: 'נפגשים ב"מקום יפה לקפה". בבקשה תבואו אחרי ארוחת בוקר כי אין כיף בלהיות רעבים כשנפגשים!',
         icon: <Coffee className="w-5 h-5" />,
